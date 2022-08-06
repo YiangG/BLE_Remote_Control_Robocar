@@ -1,6 +1,6 @@
 # BLE_Remote_Control_Robocar
 
-![overview](image/overview.jpg)
+![overview](image/overview.JPG)
 
 ESP32 Remote control car by BLE via Dabble
 
@@ -19,9 +19,9 @@ ESP32 Remote control car by BLE via Dabble
 ![schematic](image/schematic.png)
 
 ## Demo: 
-![bot](image/bottom.jpg)
+![bot](image/bottom.JPG)
 
 I combined two battery cases to be able to use AA battery as 9V battery. The case is inherited from class project as well, and you dont have to use exact 9V in this project. Any voltage source from 7 to 12V is okay. 
-![battery](image/battery.jpg)
+![battery](image/battery.JPG)
 
 ![demo](image/demo.gif)
