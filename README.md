@@ -19,6 +19,9 @@ Build a wireless controlled robocar toy, reusing the chassis from a class projec
 ## Schematics:
 ![schematic](image/schematic.png)
 
+## Code:
+As you notice, there are two folder in this repo and they are corresponding to the two version of the code I wrote, which are very self explanatory ----- the joystick one uses the joystick feature in Dabble App, and the direction key version uses the direction keys. **I recommend you to use the direction key version** for better control experience. The joystick is a bit messy. 
+
 ## Demo: 
 ![bot](image/bottom.JPG)
 
