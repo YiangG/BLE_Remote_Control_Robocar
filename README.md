@@ -4,7 +4,8 @@
 
 ESP32 Remote control car by BLE via Dabble
 
-## Objective: Build a wireless controlled robocar toy, reusing the chassis from a class project remaining. 
+## Objective: 
+Build a wireless controlled robocar toy, reusing the chassis from a class project remaining. 
 
 ## Materials:
 1.	ESP32 Pico
